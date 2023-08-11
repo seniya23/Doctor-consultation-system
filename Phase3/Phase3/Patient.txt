@@ -1,0 +1,15 @@
+Patient id:1
+First name:seniya
+Surname:perera
+Date of Birth:2001.11.23
+Mobile Number261494519844
+Patient id:1
+First name:dammika
+Surname:lenora
+Date of Birth:2001.05.11
+Mobile Number36925814702
+Patient id:2
+First name:sneha
+Surname:fonseka
+Date of Birth:2002.05.23
+Mobile Number01123456789

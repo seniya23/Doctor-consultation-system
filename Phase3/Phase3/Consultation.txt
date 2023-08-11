@@ -1,0 +1,12 @@
+Doctor Name:seniya
+Date of Consultation:monday
+Time of Consultation:6pm-8pm
+Patient Name:dammika
+Patient Note:hey, i'm ill right now plz help me
+Cost For Consultation:30 
+Doctor Name:akila
+Date of Consultation:sunday
+Time of Consultation:8am-10am
+Patient Name:sneha
+Patient Note:i'm a cancer patient i need to see a doctor immidiatly
+Cost For Consultation:25 

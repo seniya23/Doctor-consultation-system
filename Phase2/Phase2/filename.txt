@@ -1,0 +1,32 @@
+Doctor id:2
+First name:sahan
+Surname:patabandi
+Date of Birth:2001.02.31
+Mobile Number1472583690
+License number:456
+Specialisation:aesthetician
+
+Doctor id:3
+First name:akila
+Surname:perera
+Date of Birth:2001.04.12
+Mobile Number7894561230
+License number:789
+Specialisation:trichologist
+
+Doctor id:5
+First name:tajith
+Surname:perera
+Date of Birth:2001.06.06
+Mobile Number1472583690
+License number:369
+Specialisation:wasing
+
+Doctor id:4
+First name:vilan
+Surname:veerasingha
+Date of Birth:2001.05.23
+Mobile Number12134567980
+License number:78
+Specialisation:electrologist
+
